@@ -1,2 +1,2 @@
-# introduction-data-r
-Exercícios do curso "Introduction to Data in R" do Data Camp
+# Introduction to Data in R
+Curso disponível em [https://learn.datacamp.com/courses/introduction-to-data-in-r](https://learn.datacamp.com/courses/introduction-to-data-in-r)
